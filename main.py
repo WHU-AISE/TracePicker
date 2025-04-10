@@ -9,7 +9,7 @@ from core.TracePicker import TracePicker
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--dataDir', type=str, default='data')
-parser.add_argument('--dataSet', type=str, default='C')
+parser.add_argument('--dataSet', type=str, default='A')
 parser.add_argument('--saveDir', type=str, default='output')
 parser.add_argument('--seed', type=int, default=1)
 parser.add_argument('--bufferSize', type=int, default=4000)

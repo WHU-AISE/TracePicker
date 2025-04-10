@@ -1,6 +1,7 @@
 #!/bin/bash
 
-dataSets=("A" "B" "C" "media" "hipster-more" "sockshop" "trainticket"  "socialNetwork")
+# dataSets=("A" "B" "C" "media" "hipster-more" "sockshop" "trainticket"  "socialNetwork")
+dataSets=("trainticket")
 methods=("TracePicker")
 
 dataDir=$(pwd)/data

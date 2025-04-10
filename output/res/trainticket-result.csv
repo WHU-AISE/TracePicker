@@ -1,0 +1,2 @@
+method,count,RoD,typeNum,coverage,abTypeNum,                   normTypeNum,std,CV,Recall,Recall_pd, Recall_err,MSE,                   encodeT, sampleT, otherT, totalT
+TracePicker,2200,0.0,145,1.0,None,None,9.854,0.649,None,None,None,2.04,21.61105847358704,9.515533208847046,0.0139899253845214,31.140581607818604

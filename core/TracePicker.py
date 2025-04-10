@@ -6,7 +6,7 @@ import multiprocessing as mp
 import random
 import time
 import geatpy as ea
-from core.quotaProblem import QuotaProblem
+# from core.quotaProblem import QuotaProblem
 from core.quotaProblemDP import QuotaProblemDP
 # from core.sampleProblem import SampleProblem
 from core.sampleProblem2 import SampleProblem2
